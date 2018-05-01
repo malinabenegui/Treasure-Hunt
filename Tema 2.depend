@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1523967704 source:d:\info\i. sem 2 poo\tema 2\main.cpp
+	<iostream>
+	<cstring>
+	"Cautator.h"
+	"Harta.h"
+
+1523915867 source:d:\info\i. sem 2 poo\tema 2\src\cautator.cpp
+	"Cautator.h"
+
+1524129028 d:\info\i. sem 2 poo\tema 2\include\cautator.h
+	"Harta.h"
+
+1524136137 d:\info\i. sem 2 poo\tema 2\include\harta.h
+
+1523983985 source:d:\info\i. sem 2 poo\tema 2\src\harta.cpp
+	"Harta.h"
+	<iostream>
+	<cstring>
+
+1524993307 source:c:\users\catan\desktop\tema 2\main.cpp
+	<iostream>
+	<cstring>
+	"Cautator.h"
+	"Harta.h"
+	<time.h>
+	<stdlib.h>
+	<stdio.h>
+
+1524919328 c:\users\catan\desktop\tema 2\include\cautator.h
+
+1524872284 c:\users\catan\desktop\tema 2\include\harta.h
+	"Cautator.h"
+
+1524930980 source:c:\users\catan\desktop\tema 2\src\cautator.cpp
+	"Cautator.h"
+	<algorithm>
+	<cmath>
+	<iostream>
+
+1524992823 source:c:\users\catan\desktop\tema 2\src\harta.cpp
+	"Harta.h"
+	<iostream>
+	<cstring>
+	"Cautator.h"
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+
